@@ -44,3 +44,7 @@ h3{
 h4{
     color:  rgb(192, 225, 255);
 }
+
+p{
+    text-align: justify;
+}
