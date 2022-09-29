@@ -20,10 +20,10 @@ a {
 }
 
 header img {
-    width: 150px;
-    height: 150px;
-    border-radius: 100%;
-    border: 5px solid pink
+    width: 200px;
+    height: 200px;
+    border-color: 100%;
+    border: 5px solid  rgb(192, 225, 255);
 }
 
 
@@ -32,15 +32,15 @@ header img {
 }
 
 h1{
-    color: pink;
+    color: rgb(192, 225, 255);
 }
 
 h2{
-    color: pink
+    color:  rgb(192, 225, 255);
 }
 h3{
-    color: pink
+    color:  rgb(192, 225, 255);
 }
 h4{
-    color:pink
+    color:  rgb(192, 225, 255);
 }
